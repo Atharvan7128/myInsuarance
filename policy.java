@@ -1,1 +1,3 @@
-class notepad{}
+class notepad{
+void show policy()
+}
